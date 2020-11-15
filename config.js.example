@@ -1,0 +1,13 @@
+module.exports = {
+    
+    "gateway": "wss://.../",
+    "gateway-port": 8081, // internal port listening on server
+
+    "remote-host": "target-host",
+    "remote-port": 80,
+
+    "local-host": "0.0.0.0",
+    "local-port": 8080,
+
+
+}

@@ -1,0 +1,14 @@
+{
+  "name": "tcp-over-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NeoAtlantis",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ws": "^7.4.0"
+  }
+}
